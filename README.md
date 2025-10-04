@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Fraol-M/DSA-Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Fraol-M/DSA-Questions/tree/master/0169-majority-element) |
+| [1813-maximum-erasure-value](https://github.com/Fraol-M/DSA-Questions/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fraol-M/DSA-Questions/tree/master/0169-majority-element) |
+| [1813-maximum-erasure-value](https://github.com/Fraol-M/DSA-Questions/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fraol-M/DSA-Questions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Fraol-M/DSA-Questions/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
